@@ -1,7 +1,7 @@
 [![MasterHead](https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif)]
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">I am a Site Reliability Engineer, Solutions Architect and Cyber Security Professional (CISSP) with a background in Distributed Systems, automation, Hybrid cloud infrastructure deployment, and project management. I specializes in automated deployment and maintainance of large-scale Linux, Unix, and Windows Systems and Infrastructure.
-<img align="right" alt-"Certs" width="500" src="https://bl6pap003files.storage.live.com/y4m2yjRhHMUW3P0vxw3aP31Ew8B0NasxIGLsjgWq1sh0jMhrsF_2O3m5QT91etAZ9whCxEmd7bbbZu8FBbUk151E954B1bK371da5mtBdaediU1ZHZwZEh-WJ_pWcgwiM693lmojhjfY1v5-DZPBhGLbK-M8QEaOM6nz9lq2r7oVoaqYJPCaXZGHm_HOFKntisr?width=1086&height=1129&cropmode=none"
+<img align="center" alt-"Certs" width="500" src="https://bl6pap003files.storage.live.com/y4m2yjRhHMUW3P0vxw3aP31Ew8B0NasxIGLsjgWq1sh0jMhrsF_2O3m5QT91etAZ9whCxEmd7bbbZu8FBbUk151E954B1bK371da5mtBdaediU1ZHZwZEh-WJ_pWcgwiM693lmojhjfY1v5-DZPBhGLbK-M8QEaOM6nz9lq2r7oVoaqYJPCaXZGHm_HOFKntisr?width=1086&height=1129&cropmode=none"
 
 <p align="left"> <a href="https://twitter.com/@chrisnmartain" target="blank"><img src="https://img.shields.io/twitter/follow/@chrisnmartain?logo=twitter&style=for-the-badge" alt="@chrisnmartain" /></a> </p>
 
