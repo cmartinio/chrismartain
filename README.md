@@ -24,8 +24,7 @@
 
 - I hold the following IT Certifications:
 - CISSP | CCNP | CCNA | CompTIA Security+ | CompTIA CySA+
-- AWS Solutions Architect Professional 
-- AWS DevOps Engineer Professional
+- AWS Solutions Architect Professional and AWS DevOps Engineer Professional
 - AWS SysOps Associate
 - Microsoft Certified: Azure Solutions Architect Expert
 - Google Cloud Certified Professional Cloud Architect 
