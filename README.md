@@ -33,7 +33,7 @@
 - Google Cloud Certified Professional Cloud Architect 
 - Google Cloud Certified Professional Data Engineer
 
-<img align="center" alt-"Certs" width="800" src="https://bl6pap003files.storage.live.com/y4m2yjRhHMUW3P0vxw3aP31Ew8B0NasxIGLsjgWq1sh0jMhrsF_2O3m5QT91etAZ9whCxEmd7bbbZu8FBbUk151E954B1bK371da5mtBdaediU1ZHZwZEh-WJ_pWcgwiM693lmojhjfY1v5-DZPBhGLbK-M8QEaOM6nz9lq2r7oVoaqYJPCaXZGHm_HOFKntisr?width=1086&height=1129&cropmode=none"
+<img align="center" alt-"Certs" width="800" src="https://bl6pap003files.storage.live.com/y4m2yjRhHMUW3P0vxw3aP31Ew8B0NasxIGLsjgWq1sh0jMhrsF_2O3m5QT91etAZ9whCxEmd7bbbZu8FBbUk151E954B1bK371da5mtBdaediU1ZHZwZEh-WJ_pWcgwiM693lmojhjfY1v5-DZPBhGLbK-M8QEaOM6nz9lq2r7oVoaqYJPCaXZGHm_HOFKntisr?width=1086&height=1129&cropmode=none" />
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
