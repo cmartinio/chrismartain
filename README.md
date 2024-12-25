@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Personal Enterprise grade Spring Boot Blog](https://github.com/chrismartain/spring-boot-blog-application.git)
 
-- 🌱 I’m currently learning **Angular and TypeScript**
+- 🌱 I’m currently learning **Angular, TypeScript and Go**
 
 - 👯 I’m looking to collaborate on [Spring Boot Blog about Enterprise Technologies](https://github.com/chrismartain/spring-boot-blog-application.git)
 
 - 🤝 I’m looking **for technical writers to contribute to my blog about Enterprise Technologies**
 
-- 👨‍💻 All of my projects are available at [chrismartain.com](chrismartain.com)
+- 👨‍💻 All of my projects are available at [cmartin.io](cmartin.io)
 
-- 📝 I regularly write articles on [chrismartain.com and enterprisetech.io](chrismartain.com and enterprisetech.io)
+- 📝 I regularly write articles on [cmartin.io and enterprisetech.io](cmarin.io and enterprisetech.io)
 
 - 💬 Ask me about **Enterprise Security, Java and AWS, GCP and Microsoft Azure**
 
